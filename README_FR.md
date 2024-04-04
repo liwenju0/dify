@@ -1,4 +1,4 @@
-[![](./images/describe.png)](https://dify.ai)
+[![](./images/describe.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-   <a href="https://dify.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
+   <a href="https://XXX.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
    Dify.AI Unveils AI Agent: Creating GPTs and Assistants with Various LLMs
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 ## Utiliser les services cloud  
 
-L'utilisation de [Dify.AI Cloud](https://dify.ai) fournit toutes les capacités de la version open source, et comprend un essai gratuit de 200 crédits GPT.
+L'utilisation de [Dify.AI Cloud](https://XXX.ai) fournit toutes les capacités de la version open source, et comprend un essai gratuit de 200 crédits GPT.
 
 ## Pourquoi Dify
 
@@ -68,10 +68,10 @@ Dify présente une neutralité de modèle et est une pile technologique complèt
 **Étoilez-nous, et vous recevrez des notifications instantanées pour toutes les nouvelles sorties sur GitHub !**
 ![star-us](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [Site web](https://dify.ai)  
-- [Documentation](https://docs.dify.ai)  
-- [Documentation de déploiement](https://docs.dify.ai/getting-started/install-self-hosted)   
-- [FAQ](https://docs.dify.ai/getting-started/faq)  
+- [Site web](https://XXX.ai)  
+- [Documentation](https://docs.XXX.ai)  
+- [Documentation de déploiement](https://docs.XXX.ai/getting-started/install-self-hosted)   
+- [FAQ](https://docs.XXX.ai/getting-started/faq)  
 
 
 ## Installer la version Communauté  
@@ -101,7 +101,7 @@ Vous pouvez accéder à https://github.com/BorisPolonsky/dify-helm pour des info
 
 ### Configuration  
 
-Si vous avez besoin de personnaliser la configuration, veuillez vous référer aux commentaires de notre fichier [docker-compose.yml](docker/docker-compose.yaml) et définir manuellement la configuration de l'environnement. Après avoir apporté les modifications, veuillez exécuter à nouveau `docker-compose up -d`. Vous trouverez la liste complète des variables d'environnement dans notre [documentation](https://docs.dify.ai/getting-started/install-self-hosted/environments).  
+Si vous avez besoin de personnaliser la configuration, veuillez vous référer aux commentaires de notre fichier [docker-compose.yml](docker/docker-compose.yaml) et définir manuellement la configuration de l'environnement. Après avoir apporté les modifications, veuillez exécuter à nouveau `docker-compose up -d`. Vous trouverez la liste complète des variables d'environnement dans notre [documentation](https://docs.XXX.ai/getting-started/install-self-hosted/environments).  
 
 ## Historique d'étoiles  
 

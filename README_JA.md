@@ -1,4 +1,4 @@
-[![](./images/describe.png)](https://dify.ai)
+[![](./images/describe.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-   <a href="https://dify.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
+   <a href="https://XXX.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
    Dify.AI Unveils AI Agent: Creating GPTs and Assistants with Various LLMs
   </a>
 </p>
@@ -36,7 +36,7 @@ Please note that translating complex technical terms can sometimes result in sli
 
 ## クラウドサービスの利用
 
-[Dify.AI Cloud](https://dify.ai) を使用すると、オープンソース版の全機能を利用でき、さらに200GPTのトライアルクレジットが無料で提供されます。
+[Dify.AI Cloud](https://XXX.ai) を使用すると、オープンソース版の全機能を利用でき、さらに200GPTのトライアルクレジットが無料で提供されます。
 
 ## Difyの利点
 
@@ -71,10 +71,10 @@ Difyはモデルニュートラルであり、LangChainのようなハードコ�
 
 ![私たちをスターして](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [Website](https://dify.ai)
-- [Docs](https://docs.dify.ai)
-- [Deployment Docs](https://docs.dify.ai/getting-started/install-self-hosted)
-- [FAQ](https://docs.dify.ai/getting-started/faq) 
+- [Website](https://XXX.ai)
+- [Docs](https://docs.XXX.ai)
+- [Deployment Docs](https://docs.XXX.ai/getting-started/install-self-hosted)
+- [FAQ](https://docs.XXX.ai/getting-started/faq) 
 
 
 ## コミュニティエディションのインストール
@@ -104,7 +104,7 @@ docker compose up -d
 
 ### 設定
 
-設定をカスタマイズする必要がある場合は、[docker-compose.yml](docker/docker-compose.yaml) ファイルのコメントを参照し、環境設定を手動で行ってください。変更を行った後は、もう一度 `docker-compose up -d` を実行してください。環境変数の完全なリストは、[ドキュメント](https://docs.dify.ai/getting-started/install-self-hosted/environments)で確認できます。
+設定をカスタマイズする必要がある場合は、[docker-compose.yml](docker/docker-compose.yaml) ファイルのコメントを参照し、環境設定を手動で行ってください。変更を行った後は、もう一度 `docker-compose up -d` を実行してください。環境変数の完全なリストは、[ドキュメント](https://docs.XXX.ai/getting-started/install-self-hosted/environments)で確認できます。
 
 
 ## スターヒストリー

@@ -1,4 +1,4 @@
-[![](./images/describe.png)](https://dify.ai)
+[![](./images/describe.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -33,7 +33,7 @@ Dify 是一个 LLM 应用开发平台，已经有超过 10 万个应用基于 Di
 
 ## 使用云端服务
 
-使用 [Dify.AI Cloud](https://dify.ai) 提供开源版本的所有功能,并包含 200 次 GPT 试用额度。
+使用 [Dify.AI Cloud](https://XXX.ai) 提供开源版本的所有功能,并包含 200 次 GPT 试用额度。
 
 ## 为什么选择 Dify
 
@@ -69,10 +69,10 @@ Dify 具有模型中立性，相较 LangChain 等硬编码开发库 Dify 是一�
 
 ![star-us](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [网站](https://dify.ai)
-- [文档](https://docs.dify.ai)
-- [部署文档](https://docs.dify.ai/getting-started/install-self-hosted)
-- [常见问题](https://docs.dify.ai/getting-started/faq)
+- [网站](https://XXX.ai)
+- [文档](https://docs.XXX.ai)
+- [部署文档](https://docs.XXX.ai/getting-started/install-self-hosted)
+- [常见问题](https://docs.XXX.ai/getting-started/faq)
 
 ## 安装社区版
 
@@ -103,7 +103,7 @@ docker compose up -d
 
 ### 配置
 
-如果您需要自定义配置，请参考我们的 [docker-compose.yml](docker/docker-compose.yaml) 文件中的注释，并手动设置环境配置。更改后，请再次运行 `docker-compose up -d`。您可以在我们的[文档](https://docs.dify.ai/getting-started/install-self-hosted/environments)中查看所有环境变量的完整列表。
+如果您需要自定义配置，请参考我们的 [docker-compose.yml](docker/docker-compose.yaml) 文件中的注释，并手动设置环境配置。更改后，请再次运行 `docker-compose up -d`。您可以在我们的[文档](https://docs.XXX.ai/getting-started/install-self-hosted/environments)中查看所有环境变量的完整列表。
 
 ## Star History
 

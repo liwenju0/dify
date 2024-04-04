@@ -1,4 +1,4 @@
-[![](./images/describe.png)](https://dify.ai)
+[![](./images/describe.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -27,7 +27,7 @@
 
 ## ngIl QaQ
 
-[Dify.AI ngIl](https://dify.ai) pIm neHlaH 'ej ghaH. cha'logh wa' DIvI' 200 GPT trial credits.
+[Dify.AI ngIl](https://XXX.ai) pIm neHlaH 'ej ghaH. cha'logh wa' DIvI' 200 GPT trial credits.
 
 ## Dify WovmoH
 
@@ -62,10 +62,10 @@ Dify Daq rIn neutrality 'ej Hoch, LangChain tInHar HubwI'. maH Daqbe'law' Qawqar
 
 ![star-us](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [Website](https://dify.ai)
-- [Docs](https://docs.dify.ai)
-- [lo'taHmoH Docs](https://docs.dify.ai/getting-started/install-self-hosted)
-- [FAQ](https://docs.dify.ai/getting-started/faq) 
+- [Website](https://XXX.ai)
+- [Docs](https://docs.XXX.ai)
+- [lo'taHmoH Docs](https://docs.XXX.ai/getting-started/install-self-hosted)
+- [FAQ](https://docs.XXX.ai/getting-started/faq) 
 
 ## Community Edition tu' yo'
 
@@ -93,7 +93,7 @@ luHoHtaHmeH HoHtaHvIS, Dify dashboard vIneHmeH vIngeH lI'wI' [http://localhost/i
 
 ### veS config
 
-chenmoHDI' config lo'taH ghaH, vItlhutlh HIq wIgharghbe'lu'pu'. toH lo'taHvIS pagh vay' vIneHmeH, 'ej `docker-compose up -d` wa'DIch. tIqmoHmeH list full wa' lo'taHvo'lu'pu' ghaH [docs](https://docs.dify.ai/getting-started/install-self-hosted/environments).
+chenmoHDI' config lo'taH ghaH, vItlhutlh HIq wIgharghbe'lu'pu'. toH lo'taHvIS pagh vay' vIneHmeH, 'ej `docker-compose up -d` wa'DIch. tIqmoHmeH list full wa' lo'taHvo'lu'pu' ghaH [docs](https://docs.XXX.ai/getting-started/install-self-hosted/environments).
 
 ## tIng qem
 

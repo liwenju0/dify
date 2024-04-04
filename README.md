@@ -1,4 +1,4 @@
-[![](./images/GitHub_README_cover.png)](https://dify.ai)
+[![](./images/GitHub_README_cover.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -35,7 +35,7 @@
 
 ## Using our Cloud Services
 
-You can try out [Dify.AI Cloud](https://dify.ai) now. It provides all the capabilities of the self-deployed version, and includes 200 free requests to OpenAI GPT-3.5.
+You can try out [Dify.AI Cloud](https://XXX.ai) now. It provides all the capabilities of the self-deployed version, and includes 200 free requests to OpenAI GPT-3.5.
 
 ### Looking to purchase via AWS?
 Check out [Dify Premium on AWS](https://aws.amazon.com/marketplace/pp/prodview-t22mebxzwjhu6) and deploy it to your own AWS VPC with one-click. 
@@ -74,10 +74,10 @@ Check out [Dify Premium on AWS](https://aws.amazon.com/marketplace/pp/prodview-t
 
 ![star-us](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [Website](https://dify.ai)
-- [Docs](https://docs.dify.ai)
-- [Deployment Docs](https://docs.dify.ai/getting-started/install-self-hosted)
-- [FAQ](https://docs.dify.ai/getting-started/faq) 
+- [Website](https://XXX.ai)
+- [Docs](https://docs.XXX.ai)
+- [Deployment Docs](https://docs.XXX.ai/getting-started/install-self-hosted)
+- [FAQ](https://docs.XXX.ai/getting-started/faq) 
 
 
 ## Install the Community Edition
@@ -109,7 +109,7 @@ After running, you can access the Dify dashboard in your browser at [http://loca
 
 ### Configuration
 
-If you need to customize the configuration, please refer to the comments in our [docker-compose.yml](docker/docker-compose.yaml) file and manually set the environment configuration. After making the changes, please run `docker-compose up -d` again. You can see the full list of environment variables in our [docs](https://docs.dify.ai/getting-started/install-self-hosted/environments).
+If you need to customize the configuration, please refer to the comments in our [docker-compose.yml](docker/docker-compose.yaml) file and manually set the environment configuration. After making the changes, please run `docker-compose up -d` again. You can see the full list of environment variables in our [docs](https://docs.XXX.ai/getting-started/install-self-hosted/environments).
 
 
 ## Star History

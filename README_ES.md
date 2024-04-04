@@ -1,4 +1,4 @@
-[![](./images/describe.png)](https://dify.ai)
+[![](./images/describe.png)](https://XXX.ai)
 <p align="center">
   <a href="./README.md">English</a> |
   <a href="./README_CN.md">简体中文</a> |
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-    <a href="https://dify.ai" target="_blank">
+    <a href="https://XXX.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/AI-Dify?logo=AI&logoColor=%20%23f5f5f5&label=Dify&labelColor=%20%23155EEF&color=%23EAECF0"></a>
     <a href="https://discord.gg/FngNHpbcY7" target="_blank">
         <img src="https://img.shields.io/discord/1082486657678311454?logo=discord"
@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-   <a href="https://dify.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
+   <a href="https://XXX.ai/blog/dify-ai-unveils-ai-agent-creating-gpts-and-assistants-with-various-llms" target="_blank">
    Dify.AI Unveils AI Agent: Creating GPTs and Assistants with Various LLMs
   </a>
 </p>
@@ -33,7 +33,7 @@
 
 ## Utilizar Servicios en la Nube
 
-Usar [Dify.AI Cloud](https://dify.ai) proporciona todas las capacidades de la versión de código abierto, e incluye un complemento de 200 créditos de prueba para GPT.
+Usar [Dify.AI Cloud](https://XXX.ai) proporciona todas las capacidades de la versión de código abierto, e incluye un complemento de 200 créditos de prueba para GPT.
 
 ## Por qué Dify
 
@@ -68,10 +68,10 @@ Dify se caracteriza por su neutralidad de modelo y es un conjunto tecnológico c
 
 ![star-us](https://github.com/langgenius/dify/assets/100913391/95f37259-7370-4456-a9f0-0bc01ef8642f)
 
-- [Sitio web](https://dify.ai)
-- [Documentación](https://docs.dify.ai)
-- [Documentación de Implementación](https://docs.dify.ai/getting-started/install-self-hosted)
-- [Preguntas Frecuentes](https://docs.dify.ai/getting-started/faq)
+- [Sitio web](https://XXX.ai)
+- [Documentación](https://docs.XXX.ai)
+- [Documentación de Implementación](https://docs.XXX.ai/getting-started/install-self-hosted)
+- [Preguntas Frecuentes](https://docs.XXX.ai/getting-started/faq)
 
 ## Instalar la Edición Comunitaria
 
@@ -99,7 +99,7 @@ Un gran agradecimiento a @BorisPolonsky por proporcionarnos una versión del [Gr
 
 ### Configuración
 
-Si necesitas personalizar la configuración, consulta los comentarios en nuestro archivo [docker-compose.yml](docker/docker-compose.yaml) y configura manualmente la configuración del entorno. Después de realizar los cambios, ejecuta nuevamente `docker-compose up -d`. Puedes ver la lista completa de variables de entorno en nuestra [documentación](https://docs.dify.ai/getting-started/install-self-hosted/environments).
+Si necesitas personalizar la configuración, consulta los comentarios en nuestro archivo [docker-compose.yml](docker/docker-compose.yaml) y configura manualmente la configuración del entorno. Después de realizar los cambios, ejecuta nuevamente `docker-compose up -d`. Puedes ver la lista completa de variables de entorno en nuestra [documentación](https://docs.XXX.ai/getting-started/install-self-hosted/environments).
 
 ## Historial de Estrellas
 
