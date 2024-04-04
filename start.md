@@ -33,6 +33,7 @@ npm run dev
 模型服务启动分为两步
 
 1、xinference 启动：
+screen -S xinf  -L  -Logfile xinf.log
 conda activate xinf
 XINFERENCE_MODEL_SRC=modelscope xinference-local --host 0.0.0.0 --port 8085
 2、打开web页面后启动 embedding和reranking
