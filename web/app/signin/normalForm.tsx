@@ -138,10 +138,10 @@ const NormalForm = () => {
 
   return (
     <>
-      <div className="w-full mx-auto">
+      {/* <div className="w-full mx-auto">
         <h2 className="text-[32px] font-bold text-gray-900">{t('login.pageTitle')}</h2>
         <p className='mt-1 text-sm text-gray-600'>{t('login.welcome')}</p>
-      </div>
+      </div> */}
 
       <div className="w-full mx-auto mt-8">
         <div className="bg-white ">

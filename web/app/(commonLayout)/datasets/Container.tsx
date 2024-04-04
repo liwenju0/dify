@@ -23,7 +23,7 @@ const Container = () => {
 
   const options = [
     { value: 'dataset', text: t('dataset.datasets') },
-    { value: 'api', text: t('dataset.datasetsApi') },
+    // { value: 'api', text: t('dataset.datasetsApi') },
   ]
 
   const [activeTab, setActiveTab] = useTabSearchParams({
@@ -46,7 +46,7 @@ const Container = () => {
       {activeTab === 'dataset' && (
         <>
           <Datasets containerRef={containerRef} />
-          <DatasetFooter />
+          {/* <DatasetFooter /> */}
         </>
       )}
 

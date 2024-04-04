@@ -11,7 +11,7 @@ screen -S flask  -L  -Logfile flask.log
 cd api
 cp .env.example .env
 openssl rand -base64 42
-sed -i 's/SECRET_KEY=.*/SECRET_KEY=<your_value>/' .env
+sed -i 's/SECRET_KEY=.*/SECRET_KEY=light/' .env
 pip install -r requirements.txt
 flask db upgrade
 flask run --host 0.0.0.0 --port=5001 --debug

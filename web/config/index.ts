@@ -25,6 +25,9 @@ else {
   publicApiPrefix = 'http://localhost:5001/api' // avoid browser private mode api cross origin
 }
 
+apiPrefix = 'http://124.222.23.192:5001/console/api'
+publicApiPrefix = 'http://124.222.23.192/:5001/api' // avoid browser private mode api cross origin
+
 export const API_PREFIX: string = apiPrefix
 export const PUBLIC_API_PREFIX: string = publicApiPrefix
 
