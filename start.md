@@ -42,3 +42,7 @@ XINFERENCE_MODEL_SRC=modelscope xinference-local --host 0.0.0.0 --port 8085
 其他操作：
 nvm 设置默认版本
 nvm alias default v18.19.0
+
+
+systemctl daemon-reload
+systemctl restart frpc
